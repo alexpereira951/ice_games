@@ -148,7 +148,7 @@ ice_games/
 ### 1. Clonar o repositório
 
 ``` bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/alexpereira951/ice_games
 cd ice_games
 ```
 
